@@ -56,9 +56,9 @@ logo = """
 ╚═════════════════════════════════════════════╝
 ╔═════════════════════════════════════════════╗
 ║ Author   : DaniezXD                                  
-║   
-║ Facebook : https://www.facebook.com/100014926689370     
-║ Github   : https://github.com/DaniezzXD          
+║ Github   : https://github.com/DaniezzXD
+║     
+║           
 ╚═════════════════════════════════════════════╝"""
 back = 0
 threads = []
